@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1Ms3OhivQVremdpYPy4ydiJOfo5TU7CgzDIWgI+ClUdN9UdPI+1M2Zq8+L4uZ5UjKxzpfCOBRHjWc9Mne12/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trongjb\\source\\repos\\bihungchuoi1\\bb\\bb\\bb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trongjb\\.nuget\\packages\\carbon.data.protection\\1.2.0\\carbon.data.protection.1.2.0.nupkg.sha512",
+    "C:\\Users\\trongjb\\.nuget\\packages\\carbon.packaging\\1.40.0\\carbon.packaging.1.40.0.nupkg.sha512",
+    "C:\\Users\\trongjb\\.nuget\\packages\\carbon.storage\\2.1.0\\carbon.storage.2.1.0.nupkg.sha512",
+    "C:\\Users\\trongjb\\.nuget\\packages\\carbon.versioncontrol\\2.1.0\\carbon.versioncontrol.2.1.0.nupkg.sha512",
+    "C:\\Users\\trongjb\\.nuget\\packages\\carbon.versioning\\1.8.1\\carbon.versioning.1.8.1.nupkg.sha512",
+    "C:\\Users\\trongjb\\.nuget\\packages\\github\\1.24.0\\github.1.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

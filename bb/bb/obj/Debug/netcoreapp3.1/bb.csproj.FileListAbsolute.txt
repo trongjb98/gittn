@@ -1,0 +1,4 @@
+C:\Users\trongjb\source\repos\bihungchuoi1\bb\bb\bin\Debug\netcoreapp3.1\bb.exe
+C:\Users\trongjb\source\repos\bihungchuoi1\bb\bb\obj\Debug\netcoreapp3.1\bb.csprojAssemblyReference.cache
+C:\Users\trongjb\source\repos\bihungchuoi1\bb\bb\obj\Debug\netcoreapp3.1\bb.AssemblyInfoInputs.cache
+C:\Users\trongjb\source\repos\bihungchuoi1\bb\bb\obj\Debug\netcoreapp3.1\bb.AssemblyInfo.cs
